@@ -1,0 +1,20 @@
+[
+    {
+        "name": "widget-todays-date",
+        "moduleBundlePath": "/widgets-repo/widget-todays-date.bundle.js",
+        "moduleName": "WidgetTodaysDateModule",
+        "version": "0.0.4"
+    },
+    {
+        "name": "widget-hello",
+        "moduleBundlePath": "/widgets-repo/widget-hello.bundle.js",
+        "moduleName": "WidgetHelloModule",
+        "version": "0.0.2"
+    },
+    {
+        "name": "widget-quotes",
+        "moduleBundlePath": "/widgets-repo/widget-quotes.bundle.js",
+        "moduleName": "WidgetQuotesModule",
+        "version": "0.0.1"
+    }
+]
